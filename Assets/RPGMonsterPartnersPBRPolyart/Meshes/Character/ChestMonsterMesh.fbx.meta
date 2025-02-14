@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 379af92262f34e06ab580c86e8d7c6a6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Body
+  - first:
+      1: 100002
+    second: ChestMesh
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: EyeBallCTRL
+  - first:
+      1: 100008
+    second: EyeCTRL
+  - first:
+      1: 100010
+    second: FrontLeftLeg01
+  - first:
+      1: 100012
+    second: FrontLeftLeg02
+  - first:
+      1: 100014
+    second: FrontLeftLeg03
+  - first:
+      1: 100016
+    second: FrontRightLeg01
+  - first:
+      1: 100018
+    second: FrontRightLeg02
+  - first:
+      1: 100020
+    second: FrontRightLeg03
+  - first:
+      1: 100022
+    second: Head
+  - first:
+      1: 100024
+    second: LockCTRL
+  - first:
+      1: 100026
+    second: LowerEyelid
+  - first:
+      1: 100028
+    second: LowerTeethCTRL
+  - first:
+      1: 100030
+    second: RearLeftLeg01
+  - first:
+      1: 100032
+    second: RearLeftLeg02
+  - first:
+      1: 100034
+    second: RearLeftLeg03
+  - first:
+      1: 100036
+    second: RearRightLeg01
+  - first:
+      1: 100038
+    second: RearRightLeg02
+  - first:
+      1: 100040
+    second: RearRightLeg03
+  - first:
+      1: 100042
+    second: Root
+  - first:
+      1: 100044
+    second: UppderEyeLid
+  - first:
+      1: 100046
+    second: UpperTeethCTRL
+  - first:
+      4: 400000
+    second: Body
+  - first:
+      4: 400002
+    second: ChestMesh
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: EyeBallCTRL
+  - first:
+      4: 400008
+    second: EyeCTRL
+  - first:
+      4: 400010
+    second: FrontLeftLeg01
+  - first:
+      4: 400012
+    second: FrontLeftLeg02
+  - first:
+      4: 400014
+    second: FrontLeftLeg03
+  - first:
+      4: 400016
+    second: FrontRightLeg01
+  - first:
+      4: 400018
+    second: FrontRightLeg02
+  - first:
+      4: 400020
+    second: FrontRightLeg03
+  - first:
+      4: 400022
+    second: Head
+  - first:
+      4: 400024
+    second: LockCTRL
+  - first:
+      4: 400026
+    second: LowerEyelid
+  - first:
+      4: 400028
+    second: LowerTeethCTRL
+  - first:
+      4: 400030
+    second: RearLeftLeg01
+  - first:
+      4: 400032
+    second: RearLeftLeg02
+  - first:
+      4: 400034
+    second: RearLeftLeg03
+  - first:
+      4: 400036
+    second: RearRightLeg01
+  - first:
+      4: 400038
+    second: RearRightLeg02
+  - first:
+      4: 400040
+    second: RearRightLeg03
+  - first:
+      4: 400042
+    second: Root
+  - first:
+      4: 400044
+    second: UppderEyeLid
+  - first:
+      4: 400046
+    second: UpperTeethCTRL
+  - first:
+      21: 2100000
+    second: lambert1
+  - first:
+      43: 4300000
+    second: ChestMesh
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: ChestMesh
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ChestMonsterMesh(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ChestMesh
+      parentName: ChestMonsterMesh(Clone)
+      position: {x: -0, y: 7.771561e-18, z: -7.771561e-18}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: ChestMonsterMesh(Clone)
+      position: {x: 0, y: 0.53269583, z: 0.11229055}
+      rotation: {x: -0.14401501, y: 0.69228584, z: -0.14401501, w: 0.69228584}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Body
+      parentName: Root
+      position: {x: -0.21474358, y: 7.105427e-17, z: -2.6439283e-17}
+      rotation: {x: -0.000000022351742, y: 0.000000029802322, z: -0.54404557, w: 0.83905566}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Head
+      parentName: Body
+      position: {x: -0.7032955, y: 2.4424906e-17, z: 6.1733535e-16}
+      rotation: {x: 0.78810614, y: 0.6155394, z: 0.000000026812975, w: -0.000000025396528}
+      scale: {x: 0.99999976, y: 1, z: 0.99999964}
+    - name: UpperTeethCTRL
+      parentName: Head
+      position: {x: -0.34826502, y: 1.4210854e-16, z: 2.5180634e-17}
+      rotation: {x: -0.41621366, y: -0.5716347, z: 0.41621363, w: -0.5716347}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: EyeCTRL
+      parentName: Head
+      position: {x: -0.087244645, y: -0.10207933, z: -2.4205078e-16}
+      rotation: {x: -0.90988225, y: -0.41486666, z: 0.000000004015989, w: 7.083108e-10}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: EyeBallCTRL
+      parentName: EyeCTRL
+      position: {x: -0.16846575, y: 2.842171e-16, z: 3.3151596e-17}
+      rotation: {x: -0.457137, y: -0.539468, z: -0.457137, w: 0.53946805}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: UppderEyeLid
+      parentName: EyeCTRL
+      position: {x: -0.16846575, y: 2.842171e-16, z: 3.3151596e-17}
+      rotation: {x: -0.457137, y: -0.539468, z: -0.457137, w: 0.53946805}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: LowerEyelid
+      parentName: EyeCTRL
+      position: {x: -0.16846575, y: 2.842171e-16, z: 3.3151596e-17}
+      rotation: {x: -0.457137, y: -0.539468, z: -0.457137, w: 0.53946805}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: RearLeftLeg01
+      parentName: Body
+      position: {x: 0.14736685, y: 0.30774757, z: -0.40574268}
+      rotation: {x: 0.020539457, y: -0.9179512, z: -0.38400787, w: 0.097374134}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.9999997}
+    - name: RearLeftLeg02
+      parentName: RearLeftLeg01
+      position: {x: -0.14146867, y: -1.0658141e-16, z: -9.7699626e-17}
+      rotation: {x: 0.44793677, y: -0.1648183, z: 0.026637826, w: 0.8783382}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    - name: RearLeftLeg03
+      parentName: RearLeftLeg02
+      position: {x: -0.28369814, y: -2.1316282e-16, z: 1.4210854e-16}
+      rotation: {x: -0.03656399, y: 0.7496073, z: -0.06635731, w: 0.6575323}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: FrontLeftLeg01
+      parentName: Body
+      position: {x: 0.14085296, y: -0.33792657, z: -0.40574268}
+      rotation: {x: -0.34209996, y: -0.52778304, z: 0.22670093, w: 0.74365276}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.9999999}
+    - name: FrontLeftLeg02
+      parentName: FrontLeftLeg01
+      position: {x: -0.14214922, y: -1.7763568e-17, z: -1.5987211e-16}
+      rotation: {x: -0.22815034, y: -0.73817164, z: -0.34096053, w: 0.5355334}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: FrontLeftLeg03
+      parentName: FrontLeftLeg02
+      position: {x: -0.2839146, y: 7.105427e-17, z: -7.105427e-17}
+      rotation: {x: 0.00037130713, y: 0.70149684, z: -0.00037721545, w: 0.7126724}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: RearRightLeg01
+      parentName: Body
+      position: {x: 0.14736715, y: 0.3077479, z: 0.40574297}
+      rotation: {x: -0.0200083, y: 0.9158446, z: -0.38900536, w: 0.09748452}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999997}
+    - name: RearRightLeg02
+      parentName: RearRightLeg01
+      position: {x: -0.14146875, y: -1.9539925e-16, z: 6.217249e-17}
+      rotation: {x: 0.45271724, y: -0.16496095, z: -0.025738856, w: -0.8758839}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RearRightLeg03
+      parentName: RearRightLeg02
+      position: {x: -0.28369772, y: -7.105427e-17, z: 1.4210854e-16}
+      rotation: {x: 0.74960726, y: 0.036563933, z: -0.6575322, w: -0.066357225}
+      scale: {x: 0.99999994, y: 0.9999997, z: 0.99999964}
+    - name: FrontRightLeg01
+      parentName: Body
+      position: {x: 0.14085326, y: -0.3379262, z: 0.40574297}
+      rotation: {x: -0.3356872, y: -0.5258116, z: -0.23123448, w: -0.7465701}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: FrontRightLeg02
+      parentName: FrontRightLeg01
+      position: {x: -0.14214937, y: -1.2434498e-16, z: -4.4408918e-17}
+      rotation: {x: 0.23275101, y: 0.7410793, z: -0.3345945, w: 0.5335494}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: FrontRightLeg03
+      parentName: FrontRightLeg02
+      position: {x: -0.28391463, y: 7.105427e-17, z: -7.105427e-17}
+      rotation: {x: 0.70149684, y: -0.0003717542, z: -0.7126724, w: -0.00037780407}
+      scale: {x: 0.9999999, y: 1, z: 0.99999976}
+    - name: LockCTRL
+      parentName: Body
+      position: {x: -0.08293034, y: -0.45649365, z: 1.2847178e-16}
+      rotation: {x: -0.003566699, y: -0.7070978, z: -0.0035667256, w: 0.7070978}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+    - name: LowerTeethCTRL
+      parentName: Body
+      position: {x: -0.1335129, y: -0.2743049, z: 1.7746211e-16}
+      rotation: {x: -0.003566699, y: -0.7070978, z: -0.0035667256, w: 0.7070978}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
